@@ -21,8 +21,8 @@ This project demonstrates how to generate Morse code audio signals using Rust an
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/davehorner/morse_n_s
+   cd morse_n_s
    ```
 
 2. **Build the Project**
