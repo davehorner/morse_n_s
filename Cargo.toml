@@ -1,0 +1,13 @@
+[package]
+name = "morse_n_s"
+version = "0.1.0"
+edition = "2021"
+description = "Test program that plays Morse code \"N\"s using Rust and CPAL, inspired by its use in historical aviation communications, including transmissions by Amelia Earhart."
+repository = "https://github.com/davehorner/morse_n_s"  # Replace with your repository URL
+license = "MIT"
+
+[dependencies]
+cpal = "0.15.3"
+
+[dev-dependencies]
+rand = "0.8.5"
